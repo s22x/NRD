@@ -1,7 +1,5 @@
 Steps to setup and run the food order project :
 
-GitHub: https://github.com/s22x/IT7405_Sara_202003580
-
 [ Note : Steps are indicated by # symbol
          Comments are indicated by // symbol ]
 
